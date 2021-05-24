@@ -19,17 +19,9 @@
 
 ### Skills and Tools I use
 
-![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-eee?style=flat-square&logo=iOS&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=Xcodet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-[![NodeJS](http://img.shields.io/badge/-NodeJS-10341E?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://dinhanhthi.com/nodejs-npm)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-lightgray?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) ![Xcode](https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg) 
+![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) 
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 
 </br>
 
@@ -46,16 +38,7 @@
 
 ## Connect with Me:
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw] 
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb] 
-[<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github]
-[<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
-
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw][<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
 
 [linkedin]: https://www.linkedin.com/in/abanoub-ashraf-81b329b7/
 [mail]: https://docs.google.com/document/d/1lr2sMIhAithabtZI8SiRkRVTTFa_o0ZIsuZNKmo2lUo/edit?usp=sharing
@@ -108,4 +91,14 @@ things toa dd or modify later:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
+<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+
 -->
+
