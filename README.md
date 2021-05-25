@@ -19,8 +19,7 @@
 
 ### Skills and Tools I use
 
-<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="66em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) 
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="66em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 
 </br>
 
@@ -40,7 +39,6 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw][<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit][<img alt="Spotify" src="https://img.shields.io/badge/-spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />][spotify][<img alt="MyAnimeList" src="https://img.shields.io/badge/-myanimelist-blue?style=for-the-badge&logo=myanimelist&logoColor=white" />][myanimelist]
 
 
-
 [linkedin]: https://www.linkedin.com/in/abanoub-ashraf-81b329b7/
 [mail]: https://docs.google.com/document/d/1lr2sMIhAithabtZI8SiRkRVTTFa_o0ZIsuZNKmo2lUo/edit?usp=sharing
 [tw]: https://twitter.com/Abanoub_Ashraf_
@@ -50,7 +48,6 @@
 [instagram]: https://www.instagram.com/abanoub_ashraf_0/
 [youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg
 [reddit]: https://www.reddit.com/user/Mike_Samson/
-
 [spotify]: https://open.spotify.com/user/q8vf0xt7ln2i1ys502612e5yj
 [myanimelist]: https://myanimelist.net/profile/Abanoub_Ashraf_
 
