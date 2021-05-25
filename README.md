@@ -19,12 +19,8 @@
 
 ### Skills and Tools I use
 
-<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) ![Xcode](https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg) 
-![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) 
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="66em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) 
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-
-
-![Xcode](https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png) 
 
 </br>
 
