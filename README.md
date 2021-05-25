@@ -4,22 +4,22 @@
 
 </br>
 
-## About Me 🚀
+## About Me ✍️
 
-### I'm a Self-taught iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, started last March! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 I'm Fresh Developer and passionate about Mobile Dev
-- 💻 I'm currently looking for intern/fresh iOS roles
-- 🔥 I know A little bit of Full Stack Web Dev using Node.js and React.js
-- 💡 I’m currently learning still, and so like to explore new technologies
-- 👨‍ I enjoy learning new things and enhance My Knoweldge as time pass by
-- 🚀 One day I will one of the highest paid devs in the iOS community!
-- 🌱 Fun fact: I love Anime and manga 
+### I'm a Self-taught iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, started in March! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
+- 👨🏻‍💻 I'm Fresh Developer and so passionate about Mobile Dev and its varios technologies
+- 💻 I'm currently seeking a beginner role to enhance and explore my technical knowledge
+- 🔥 I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much
+- 💡 I enjoy learning new things and enhance My Knoweldge as time passes by
+- 🚀 One day I will be one of the highest paid devs in the iOS Community!
+- ✨ I'm looking forward to deliver great value to the Business and the Users
+- 🌱 Fun fact: I love Anime, Manga, and also Cats
 
 </br>
 
 ### Skills and Tools I use
 
-<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="66em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/> ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 
 </br>
 
