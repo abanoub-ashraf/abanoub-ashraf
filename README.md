@@ -45,7 +45,7 @@
 [discord]: https://docs.google.com/document/d/1PTRlGjrvM_olFPyfJkP3QJGy88GC3UEWilDqmhDIBL8/edit?usp=sharing
 [github]: https://github.com/abanoub-ashraf?tab=repositories
 [instagram]: https://www.instagram.com/abanoub_ashraf_0/
-[youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg
+[youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg/videos
 [reddit]: https://www.reddit.com/user/Mike_Samson/
 [spotify]: https://open.spotify.com/user/q8vf0xt7ln2i1ys502612e5yj
 [snapchat]: https://www.snapchat.com/add/abanoub_ashraf
