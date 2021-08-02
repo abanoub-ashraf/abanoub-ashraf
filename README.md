@@ -6,7 +6,7 @@
 
 ## About Me ✍️
 
-### I'm a Self-taught iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, started in March! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
+### I'm a Self-taught iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Check out [My Resume!](https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing) <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 - 👨🏻‍💻 I'm Fresh Developer and so passionate about Mobile Dev and its varios technologies
 - 💻 I'm currently seeking a beginner role to enhance and explore my technical knowledge
 - 🔥 I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much
