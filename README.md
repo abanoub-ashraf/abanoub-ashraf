@@ -2,18 +2,20 @@
 
 # Hello there, I'm ✨ [Abanoub Ashraf!](https://www.linkedin.com/in/abanoub-ashraf-81b329b7/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-</br>
+### I'm a Self-taught Mobile Developer (iOS Native & Flutter) 
+### Check out [My Resume!](https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing)
+
+<!-- </br> -->
 
 ## About Me ✍️
 
-### I'm a Self-taught Mobile Developer (iOS Native & Flutter) 
-### Check out [My Resume!](https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing) <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
+ <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 
 - 👨🏻‍💻  I'm Fresh Developer and so passionate about Mobile Dev and its varios technologies
 - 💻  I'm currently seeking a beginner role to enhance and explore my technical knowledge
 - 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much
 - 💡  I enjoy learning new things and enhance My Knoweldge as time passes by
-- 🚀  One day I will be one of the highest paid devs in the iOS Community!
+- 🚀  One day I will be one of the highest paid devs in the Mobile Dev Community!
 - ✨  I'm looking forward to deliver great value to the Business and the Users
 - 🌱  Fun fact: I love Anime, Manga, and also Cats
 
