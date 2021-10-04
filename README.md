@@ -17,7 +17,7 @@
 - 💡  I enjoy learning new things and enhance My Knoweldge as time passes by
 - 🚀  One day I will be one of the highest paid devs in the Mobile Dev Community!
 - ✨  I'm looking forward to deliver great value to the Business and the Users
-- 🌱  Fun fact: I love Anime, Manga, and also Cats
+- 🌱  Fun fact: I love weight lifting, Anime, Manga, and also Cats
 
 </br>
 
