@@ -2,7 +2,7 @@
 
 # Hello there, I'm ✨ [Abanoub Ashraf!](https://www.linkedin.com/in/abanoub-ashraf-81b329b7/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm a Self-taught Mobile Developer (Native iOS & Flutter) 
+### I'm a Self-taught iOS Mobile Developer
 ### Check out [My Resume!](https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing)
 
 <!-- </br> -->
