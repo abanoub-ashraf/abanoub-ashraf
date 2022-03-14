@@ -2,41 +2,46 @@
 
 # Hello there, I'm ✨ [Abanoub Ashraf!](https://www.linkedin.com/in/abanoub-ashraf-81b329b7/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm a Self-taught iOS Mobile Developer
-### Check out [My Resume!](https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing)
+### I'm an iOS Mobile Developer at [Motorgy](https://www.motorgy.com) <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="29px">
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw][<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb]
 
 <!-- </br> -->
 
-## About Me ✍️
+## A little more about me ✍️
 
  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 
-- 👨🏻‍💻  I'm Fresh Developer and so passionate about Mobile Dev and its varios technologies
-- 💻  I'm currently seeking a beginner role to enhance and explore my technical knowledge
-- 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much
+- 👨🏻‍💻  I'm so passionate about Mobile Dev and its varios technologies
+
+- 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much yet
+
 - 💡  I enjoy learning new things and enhance My Knoweldge as time passes by
-- 🚀  One day I will be one of the highest paid devs in the Mobile Dev Community!
+
 - ✨  I'm looking forward to deliver great value to the Business and the Users
-- 🌱  Fun fact: I love Weight Lifting, Anime, Manga, and also Cats
+
+- 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music, GYM
+
+- 🌱  Fun fact: I love Anime, Manga, and also Cats
 
 </br>
 
-## Skills and Tools I use
+## Skills & Tools I use
 
-<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/>  ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) ![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg)
+<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/>  ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)  ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg)
 
-<!-- ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) -->
-<!-- ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) -->
-<!-- ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) -->
-<!-- ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) -->
-<!-- ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) -->
-<!-- ![typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) -->
+</br>
+
+## Other Knowledge & Tools
+
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
+![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
 
 </br>
 
 ## Connect with Me:
 
-[<img alt="Linktree" src="https://img.shields.io/badge/-linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>][linktree][<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw][<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Snapchat" src="https://img.shields.io/badge/-snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />][snapchat][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit][<img alt="Spotify" src="https://img.shields.io/badge/-spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />][spotify][<img alt="MyAnimeList" src="https://img.shields.io/badge/-myanimelist-blue?style=for-the-badge&logo=myanimelist&logoColor=white" />][myanimelist]
+[<img alt="Linktree" src="https://img.shields.io/badge/-linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>][linktree][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Snapchat" src="https://img.shields.io/badge/-snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />][snapchat][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit][<img alt="Spotify" src="https://img.shields.io/badge/-spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />][spotify][<img alt="MyAnimeList" src="https://img.shields.io/badge/-myanimelist-blue?style=for-the-badge&logo=myanimelist&logoColor=white" />][myanimelist]
 
 
 [linkedin]: https://www.linkedin.com/in/abanoub-ashraf-81b329b7/
