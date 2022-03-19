@@ -12,7 +12,7 @@
 
  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 
-- 👨🏻‍💻  I'm so passionate about Mobile Dev and its varios technologies
+- 👨🏻‍💻  I'm a Self-taught iOS Dev but also so passionate about Mobile Dev and its various technologies
 
 - 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much yet
 
