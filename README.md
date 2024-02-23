@@ -2,53 +2,52 @@
 
 # Hello there, I'm ✨ [Abanoub Ashraf!](https://www.linkedin.com/in/abanoub-ashraf-81b329b7/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm a Junior iOS Software Engineer at [Motorgy](https://www.motorgy.com) <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="29px">
+### I'm an iOS Software Engineer currently working at [Motorgy](https://www.motorgy.com) buying and selling car app based in Kuwait
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][tw][<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb]
+## check out my [Resume](https://drive.google.com/file/d/1eQFif7BZXhCgPl5b9DnxZvd1yXLiHzJB/view)
 
-<!-- </br> -->
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>][x][<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
+
 
 ## A little more about me ✍️
 
  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 
-- 👨🏻‍💻  I'm a Self-taught iOS Dev but also so passionate about Mobile Dev and its various technologies
+- 👨🏻‍💻  I'm a self-taught software engineer who's passionate about Swift and iOS Development 
+my learning journey started with Swift in 2022, now I'm curious and learning about anything related to iOS Development.
 
-- 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much yet
+- 🔥  I know A little bit of Full Stack Web Dev using NodeJS and ReactJS but not that much just yet, more of a hobby in the meantime
 
-- 💡  I enjoy learning new things and enhance My Knoweldge as time passes by
+- 💡  I enjoy learning new things and enhancing My Knowledge as time passes by
 
-- ✨  I'm looking forward to deliver great value to the Business and the Users
+- ✨  I'm looking forward to delivering great value to the Business and the Users
 
-- 🎯 My Hobbies: Reading, Watching Movies & Series, Listening to music, GYM
+- 🎯 My Hobbies: Watching Movies & Series, Listening to music, hitting the GYM, and watching anime
 
-- 🌱  Fun fact: I love Anime, Manga, and also Cats
+- 🌱  Fun fact: you're reading this and didn't hit the follow button yet 😁
 
 </br>
 
 ## Skills & Tools I use
 
-<img height="62em" src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png"/>  ![Swift](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) <img height="67em" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/> <img height="60em" src="https://credo.academy/resources/logo-swiftui-masterclass.png"/> ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)  ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) <img height="62em" src="https://user-images.githubusercontent.com/10991489/119416543-285a9800-bcf4-11eb-8755-a9351330ef0d.jpg"/> ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ![gitkraken](https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg)
+<img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-FA7322?style=for-the-badge&logo=swift&logoColor=white"/><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><img alt="Gitkraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
 
 </br>
 
 ## Other Knowledge & Tools
-
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) ![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
-![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img alt="Webstorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 </br>
 
 ## Connect with Me:
-
-[<img alt="Linktree" src="https://img.shields.io/badge/-linktree-purple?style=for-the-badge&logo=linktree&logoColor=white"/>][linktree][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Snapchat" src="https://img.shields.io/badge/-snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />][snapchat][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit][<img alt="Spotify" src="https://img.shields.io/badge/-spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />][spotify][<img alt="MyAnimeList" src="https://img.shields.io/badge/-myanimelist-blue?style=for-the-badge&logo=myanimelist&logoColor=white" />][myanimelist]
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="x" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>][x][<img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook][<img alt="LnkBio" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"/>][LnkBio][<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail][<img alt="Discord" src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />][discord][<img alt="GitHub" src="https://img.shields.io/badge/-Github-lightgray?style=for-the-badge&logo=github&logoColor=white" />][github][<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" />][instagram][<img alt="Youtube" src="https://img.shields.io/badge/-youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />][youtube][<img alt="Snapchat" src="https://img.shields.io/badge/-snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />][snapchat][<img alt="Reddit" src="https://img.shields.io/badge/-reddit-F05032?style=for-the-badge&logo=reddit&logoColor=white" />][reddit][<img alt="Spotify" src="https://img.shields.io/badge/-spotify-green?style=for-the-badge&logo=spotify&logoColor=white" />][spotify][<img alt="MyAnimeList" src="https://img.shields.io/badge/-myanimelist-blue?style=for-the-badge&logo=myanimelist&logoColor=white" />][myanimelist]
 
 
 [linkedin]: https://www.linkedin.com/in/abanoub-ashraf-81b329b7/
-[mail]: https://docs.google.com/document/d/1lr2sMIhAithabtZI8SiRkRVTTFa_o0ZIsuZNKmo2lUo/edit?usp=sharing
-[tw]: https://twitter.com/Abanoub_Ashraf_
-[fb]: https://www.facebook.com/abanoub.ashraf.1110/
-[discord]: https://docs.google.com/document/d/1PTRlGjrvM_olFPyfJkP3QJGy88GC3UEWilDqmhDIBL8/edit?usp=sharing
+[mail]: https://docs.google.com/document/d/1uikPjWxYIV0Rkp8khQAjVTEoYCYT9gR7/edit
+[x]: https://twitter.com/Abanoub_Ashraf_
+[facebook]: https://www.facebook.com/abanoub.ashraf.1110/
+[discord]: https://docs.google.com/document/d/1TEr9QLtjsA3hY-SjdtwADbeuhKfP4L70/edit
 [github]: https://github.com/abanoub-ashraf?tab=repositories
 [instagram]: https://www.instagram.com/abanoub_ashraf_0/
 [youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg/videos
@@ -56,7 +55,7 @@
 [spotify]: https://open.spotify.com/user/q8vf0xt7ln2i1ys502612e5yj
 [snapchat]: https://www.snapchat.com/add/abanoub_ashraf
 [myanimelist]: https://myanimelist.net/profile/Abanoub_Ashraf_
-[linktree]: https://linktr.ee/abanoub_ashraf
+[LnkBio]: https://lnk.bio/abanoub_ashraf
 
 </br>
 
@@ -71,68 +70,7 @@
 
 </br>
 
-<!-- 
-
-things toa dd or modify later:
-
-  3776AB
-  00979D
-  C51A4A
-  00599C
-  777BB4
-  DD1100
-  27338e
-  800000
-  013243
-
-  ![SmartThings](https://img.shields.io/badge/SmartThings-?style=flat-square&logo=SmartThings&logoColor=white)
-  ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-  ![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
-  ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-  ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/#web_development)
-[![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
-[![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/#web_development)
-[![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://dinhanhthi.com/tags#docker)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://dinhanhthi.com/)
-[![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/)
-
-[![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098)](https://dinhanhthi.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://dinhanhthi.com/)
-[![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
-[![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
-
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-[![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags#react)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-
-<p align="left">
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a>
-  <a href="https://reddit.com/user/PeterTheHan"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
-  <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-</p>
-
-
--->
-
-
-
-
-
+![Profile views](https://komarev.com/ghpvc/?username=abanoub-ashraf&&style=flat-square)
+</br>
+</br>
+</br>
