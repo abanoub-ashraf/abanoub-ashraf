@@ -61,7 +61,12 @@ my learning journey started with Swift in 2022, now I'm curious and learning abo
 
 ## Github Stats:
 
-<p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanoub-ashraf&layout=compact&theme=onedark" /></a> 
+</p>
+
+</br>
+
+<p align="center">
   <a href="https://github.com/abanoub-ashraf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abanoub-ashraf&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-ashraf&&layout=compact&langs_count=8&theme=algolia"/>
@@ -71,6 +76,5 @@ my learning journey started with Swift in 2022, now I'm curious and learning abo
 </br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=abanoub-ashraf&&style=flat-square)
-</br>
 </br>
 </br>
