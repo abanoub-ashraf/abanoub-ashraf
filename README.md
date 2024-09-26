@@ -4,7 +4,7 @@
 
 ### I'm an iOS Software Engineer currently working at [Motorgy](https://www.motorgy.com) buying and selling car app based in Kuwait
 
-## check out my [Resume](https://drive.google.com/file/d/1eQFif7BZXhCgPl5b9DnxZvd1yXLiHzJB/view)
+## check out my [Resume](https://drive.google.com/file/d/14Hxf9GNZJLEcHZ9ZJsW6hxldABDB3FN6/view?usp=sharing)
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin][<img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>][x][<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 
