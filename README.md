@@ -2,7 +2,7 @@
 
 # Hello there, I'm ✨ [Abanoub Ashraf!](https://www.linkedin.com/in/abanoub-ashraf-81b329b7/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm an iOS Software Engineer currently working at [Motorgy](https://www.motorgy.com) buying and selling car app based in Kuwait
+### I'm a Self-Taught iOS Software Engineer currently working Remotely at [United Motorgy](https://www.motorgy.com), a buying and selling car platform based in Kuwait
 
 ## check out my [Resume](https://drive.google.com/file/d/14Hxf9GNZJLEcHZ9ZJsW6hxldABDB3FN6/view?usp=sharing)
 
