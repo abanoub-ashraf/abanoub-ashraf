@@ -44,10 +44,10 @@ my learning journey started with Swift in 2022, now I'm curious and learning abo
 
 
 [linkedin]: https://www.linkedin.com/in/abanoub-ashraf-81b329b7/
-[mail]: https://docs.google.com/document/d/1uikPjWxYIV0Rkp8khQAjVTEoYCYT9gR7/edit
+[mail]: mailto:abanoub.ashraf10@gmail.com
 [x]: https://twitter.com/Abanoub_Ashraf_
-[facebook]: https://www.facebook.com/abanoub.ashraf.1110/
-[discord]: https://docs.google.com/document/d/1TEr9QLtjsA3hY-SjdtwADbeuhKfP4L70/edit
+[facebook]: https://www.facebook.com/abanoub.ashraf.00/
+[discord]: https://discordapp.com/users/194929710969389057
 [github]: https://github.com/abanoub-ashraf?tab=repositories
 [instagram]: https://www.instagram.com/abanoub_ashraf_0/
 [youtube]: https://www.youtube.com/channel/UCaH0SjSVk045E165fGh9wjg/videos
